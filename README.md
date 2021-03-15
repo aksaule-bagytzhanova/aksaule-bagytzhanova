@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Django
 - 💞️ I’m looking to collaborate on Google
-- 📫 How to reach me ...
+- 📫 How to reach me in telegram @aksi_maksi
 
 <!---
 aksaule-bagytzhanova/aksaule-bagytzhanova is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
