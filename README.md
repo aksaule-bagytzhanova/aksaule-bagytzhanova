@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Aksi
-- 👀 I’m interested in Data Science
+- 👀 I’m interested in Artificial intelligence
 - 🌱 I’m currently learning Django
 - 💞️ I’m looking to collaborate on Google
 - 📫 How to reach me in telegram @aksi_maksi
