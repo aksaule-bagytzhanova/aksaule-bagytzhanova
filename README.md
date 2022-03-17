@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aksi
 - 👀 I’m interested in Artificial intelligence and Smart contracts
-- 🌱 I’m currently learning Django and Golang
+- 🌱 I’m currently learning Python(bibl and drf) and Golang
 - 💞️ I’m looking to collaborate on Google
 - 📫 How to reach me in telegram @aksi_maksi
 
