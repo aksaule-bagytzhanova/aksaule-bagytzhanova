@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Aksi
-- 👀 I’m interested in Artificial intelligence and Smart contracts
-- 🌱 I’m currently learning Python(bibl and drf) and Golang
-- 💞️ I’m looking to collaborate on Google
+- 👀 I’m interested in Artificial intelligence and Robotics
+- 🌱 I’m currently learning Python and C++
+- 💞️ I’m looking to collaborate on NASA
 - 📫 How to reach me in telegram @aksi_maksi
 
 <!---
