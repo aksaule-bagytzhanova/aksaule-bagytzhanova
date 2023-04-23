@@ -2,7 +2,7 @@
 - 👀 I’m interested in Artificial intelligence and Robotics
 - 🌱 I’m currently learning Python and C++
 - 💞️ I’m looking to collaborate on NASA
-- 📫 How to reach me in telegram @aksi_maksi
+- 📫 How to reach me in telegram @just_aksi
 
 <!---
 aksaule-bagytzhanova/aksaule-bagytzhanova is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
