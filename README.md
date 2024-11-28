@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aksi
-- 👀 I’m interested in Artificial intelligence and Robotics
-- 🌱 I’m currently learning Nextjs and Nodejs
+- 👀 I’m interested in Artificial intelligence/ML and Robotics
+- 🌱 I’m currently learning Python and R
 - 💞️ I’m looking to collaborate on NASA
 
 <!---
